@@ -1,7 +1,8 @@
 # markdownlint
 
 > A Node.js style checker and lint tool for Markdown/CommonMark files.
-> **Language**: [繁體中文](README_zh-tw.md) | **English**
+
+> **Language**: [繁體中文](README_zh-tw.md)
 
 [![npm version][npm-image]][npm-url]
 [![License][license-image]][license-url]
